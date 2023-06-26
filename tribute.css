@@ -1,0 +1,41 @@
+body{
+    background-color: #99DBF5;
+}
+
+.all{
+    text-align: center;
+    align-items: center;
+}
+.all h1{
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 5rem;
+    gap: .5px;
+    text-decoration: underline;
+}
+.all h2{
+    font-family: 'Merriweather', serif;
+    color: red;
+    font-weight: 30px;
+    /* font-size: 3rem; */
+}
+.img img{
+    height: 25rem;
+    width: 23rem;
+    border-radius: 12rem;
+}
+.img p{
+    font: 1em sans-serif;
+    /* font-size: 5rem; */
+}
+.biography h1{
+    font-family: 'Merriweather', serif;
+    margin-left: 10px;
+    font-size: 2em;
+}
+.biography p{
+    font-family: 'Merriweather', serif;
+    justify-content: space-between;
+    text-transform: initial;
+    font-size: 1.25em;
+   }
